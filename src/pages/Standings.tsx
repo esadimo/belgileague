@@ -15,7 +15,7 @@ const demoStandings = [
   { position: 5, team: 'Red Dragons', played: 6, won: 2, drawn: 2, lost: 2, gf: 9, ga: 9, gd: 0, points: 8, form: ['D', 'L', 'W', 'D', 'W'] as const },
   { position: 6, team: 'Green Eagles', played: 6, won: 2, drawn: 1, lost: 3, gf: 8, ga: 11, gd: -3, points: 7, form: ['L', 'W', 'L', 'D', 'L'] as const },
   { position: 7, team: 'Storm United', played: 6, won: 1, drawn: 1, lost: 4, gf: 6, ga: 13, gd: -7, points: 4, form: ['L', 'L', 'D', 'L', 'W'] as const },
-  { position: 8, team: 'Golden Hawks', played: 6, won: 0, drawn: 2, lost: 4, gf: 4, ga: 15, gd: -11, points: 2, form: ['D', 'L', 'L', 'D', 'L'] as const },
+  { position: 8, team: 'esa', played: 6, won: 0, drawn: 2, lost: 4, gf: 4, ga: 15, gd: -11, points: 2, form: ['D', 'L', 'L', 'D', 'L'] as const },
 ];
 
 export default function Standings() {
